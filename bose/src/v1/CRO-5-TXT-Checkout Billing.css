@@ -1,0 +1,29 @@
+#makeLogin {
+    border: 1px solid #e6e6e6;
+    padding: 16px;
+}
+
+#makeLogin .cart-login-customer-header {
+    font-size: 1rem;
+    line-height: 1.688rem;
+    font-weight: 500;
+    color: #40464b;
+    margin-bottom: 4px;
+}
+
+#makeLogin .cart-login-customer-body {
+    font-size: .875rem;
+    line-height: 1rem;
+    font-weight: 400;
+    color: #131317;
+    margin: 0;
+}
+
+#makeLogin .cart-login-customer-link {
+    text-decoration: underline;
+}
+
+#makeLogin .a {
+    color: #444;
+    background-color: transparent;
+}
